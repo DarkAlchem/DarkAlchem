@@ -7,4 +7,4 @@ Smash Player
 Overwatch Main Tank
 Artist
 
-(Digital Portfolio)[https://digital-portfolio-steel.vercel.app/]
+(Digital Portfolio)[https://b-reed-portfolio.vercel.app/]
